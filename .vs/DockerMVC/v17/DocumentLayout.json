@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|c:\\users\\luz\\source\\repos\\dockermvc\\dockermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|solutionrelative:dockermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|c:\\users\\luz\\source\\repos\\dockermvc\\dockermvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|solutionrelative:dockermvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|c:\\users\\luz\\source\\repos\\dockermvc\\dockermvc\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|solutionrelative:dockermvc\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|c:\\users\\luz\\source\\repos\\dockermvc\\dockermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|solutionrelative:dockermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|c:\\users\\luz\\source\\repos\\dockermvc\\dockermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|solutionrelative:dockermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|c:\\users\\luz\\source\\repos\\dockermvc\\dockermvc\\migrations\\20240829043601_nombredelamigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|solutionrelative:dockermvc\\migrations\\20240829043601_nombredelamigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|c:\\users\\luz\\source\\repos\\dockermvc\\dockermvc\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|solutionrelative:dockermvc\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|c:\\users\\luz\\source\\repos\\dockermvc\\dockermvc\\views\\personas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|solutionrelative:dockermvc\\views\\personas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|c:\\users\\luz\\source\\repos\\dockermvc\\dockermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|solutionrelative:dockermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|c:\\users\\luz\\source\\repos\\dockermvc\\dockermvc\\migrations\\20240823010119_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|solutionrelative:dockermvc\\migrations\\20240823010119_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|c:\\users\\luz\\source\\repos\\dockermvc\\dockermvc\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E714B6C4-8C7C-4FCE-8ACC-9A76E473B19F}|DockerMVC\\DockerMVC.csproj|solutionrelative:dockermvc\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Dockerfile",
+              "RelativeDocumentMoniker": "DockerMVC\\Dockerfile",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Dockerfile",
+              "RelativeToolTip": "DockerMVC\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-29T05:14:37.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240829043601_NombreDeLaMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Migrations\\20240829043601_NombreDeLaMigracion.cs",
+              "RelativeDocumentMoniker": "DockerMVC\\Migrations\\20240829043601_NombreDeLaMigracion.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Migrations\\20240829043601_NombreDeLaMigracion.cs",
+              "RelativeToolTip": "DockerMVC\\Migrations\\20240829043601_NombreDeLaMigracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:36:02.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "DockerMVC\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "DockerMVC\\Controllers\\PersonasController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:32:40.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DockerMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DockerMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T03:34:12.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240823010119_inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Migrations\\20240823010119_inicial.cs",
+              "RelativeDocumentMoniker": "DockerMVC\\Migrations\\20240823010119_inicial.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Migrations\\20240823010119_inicial.cs",
+              "RelativeToolTip": "DockerMVC\\Migrations\\20240823010119_inicial.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:01:20.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Program.cs",
+              "RelativeDocumentMoniker": "DockerMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Program.cs",
+              "RelativeToolTip": "DockerMVC\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwCMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:00:34.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "DockerMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\appsettings.json",
+              "RelativeToolTip": "DockerMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T00:51:58.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "DockerMVC\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Models\\Persona.cs",
+              "RelativeToolTip": "DockerMVC\\Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:42:59.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DockerMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DockerMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T04:45:27.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Views\\Personas\\Create.cshtml",
+              "RelativeDocumentMoniker": "DockerMVC\\Views\\Personas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Views\\Personas\\Create.cshtml",
+              "RelativeToolTip": "DockerMVC\\Views\\Personas\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T04:45:33.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DockerMVC\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Luz\\source\\repos\\DockerMVC\\DockerMVC\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DockerMVC\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:48:10.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
